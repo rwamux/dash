@@ -289,4 +289,4 @@ def update_distplot(candidate_name,region_name):
     
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
