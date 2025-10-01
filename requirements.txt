@@ -1,4 +1,4 @@
 dash
 gunicorn
 pandas
-
+scipy
